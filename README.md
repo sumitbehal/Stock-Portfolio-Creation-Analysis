@@ -7,4 +7,4 @@ which automatically computes the most common quantities, such as Expected annual
 Volatility and Sharpe Ratio. Moreover, it provides a library for computing different kinds of Returns 
 and visualising Moving Averages and Bollinger Bands. Finally, given a set of stocks, it also allows for 
 finding optimised portfolios.
-https://user-images.githubusercontent.com/40502533/71175640-0dc5f900-228e-11ea-9e3e-a1ec9a52ec27.png 
+![alt text](https://d1rwhvwstyk9gu.cloudfront.net/2019/08/portfolio-management-strategy-1.png)
