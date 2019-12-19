@@ -27,15 +27,27 @@ Risk or Volatility: This is the (estimated) amount that the portfolio assumes
 Some of the most used Portfolio performance measures are:
 
 Annualised Returns
+
 Annualised Volatility
+
 Sharpe Ratio
+
 Sortino Ratio
+
 Beta
+
 Treynor Ratio
+
 Information Ratio
+
 Skewness
+
 Kurtosis
+
 Maximum Drawdown
+
 Number of Trades
+
 Profit ratio
+
 Holding period
